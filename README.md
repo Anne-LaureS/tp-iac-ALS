@@ -52,11 +52,6 @@ Une pipeline **GitHub Actions** (`.github/workflows/trivy.yaml`) exécute un sca
 
 Le rapport détaillé du TP se trouve dans [`docs/tp1-rapport.md`](docs/tp1-rapport.md).
 
-```bash
-git add README.md
-git commit -m "docs: enrichissement du README"
-git push
-```
 
 ```bash
 git clone <url-du-depot>
