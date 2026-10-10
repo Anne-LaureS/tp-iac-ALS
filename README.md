@@ -6,6 +6,7 @@
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF4B4B)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+[![Licence MIT](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
 
 ---
 
@@ -110,3 +111,10 @@ Le rapport détaillé du TP est disponible ici :
 **Anne-Laure S.**
 
 Projet réalisé dans le cadre du Mastère Cybersécurité & Cloud Computing
+
+---
+
+## 📜 Licence
+
+Publié sous licence [MIT](LICENSE) © 2026 Anne-LaureS : réutilisation libre, à condition de conserver la
+mention de copyright. Fourni « tel quel », sans garantie.
